@@ -1,4 +1,15 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+html{
+  background-color:#e6ffe5;
+}
+h1{
+  color:#3eac15;
+  padding:10px;
+  margin:0;
+  background-color:#94f778;
+}
+p{
+  color:#42972b;
+}
+button{
+  background-color:white;
+}
