@@ -1,15 +1,19 @@
+/* Background */
 html{
   background-color:#e6ffe5;
 }
+/* header color */
 h1{
   color:#3eac15;
   padding:10px;
   margin:0;
   background-color:#94f778;
 }
+/* Text color */
 p{
   color:#42972b;
 }
+/* button color */
 button{
-  background-color:white;
+  background-color:#e4ece6;
 }
